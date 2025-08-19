@@ -3,35 +3,37 @@
 
  Directory of C:\dokumentasi projek gabriel\portofolio
 
-08/18/2025  06:11 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
+08/19/2025  10:49 AM    <DIR>          .
+08/19/2025  06:04 AM    <DIR>          ..
 08/18/2025  06:06 PM               277 .gitignore
-08/18/2025  06:11 PM                 0 daftar_isi_folder.txt
+08/19/2025  10:49 AM                70 daftar_isi_folder.txt
+08/19/2025  09:46 AM    <DIR>          dist
 08/18/2025  06:06 PM               792 eslint.config.js
-08/18/2025  06:06 PM               744 index.html
-08/18/2025  06:08 PM    <DIR>          node_modules
-08/18/2025  06:07 PM           212,671 package-lock.json
-08/18/2025  06:06 PM             1,283 package.json
+08/18/2025  06:26 PM               745 index.html
+08/19/2025  09:56 AM    <DIR>          node_modules
+08/19/2025  09:56 AM           212,671 package-lock.json
+08/18/2025  06:27 PM             1,279 package.json
 08/18/2025  06:06 PM    <DIR>          public
-08/18/2025  06:06 PM             2,005 README.md
+08/18/2025  09:00 PM             2,041 README.md
 08/18/2025  06:06 PM    <DIR>          src
 08/18/2025  06:06 PM               253 vite.config.js
-               8 File(s)        218,025 bytes
+               8 File(s)        218,128 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git
 
-08/18/2025  06:11 PM    <DIR>          ..
-08/18/2025  06:09 PM               334 config
+08/19/2025  10:49 AM    <DIR>          ..
+08/19/2025  10:29 AM                61 COMMIT_EDITMSG
+08/19/2025  10:01 AM               342 config
 08/18/2025  06:06 PM                73 description
 08/18/2025  06:06 PM                21 HEAD
 08/18/2025  06:06 PM    <DIR>          hooks
-08/18/2025  06:06 PM             8,014 index
+08/19/2025  10:29 AM             8,038 index
 08/18/2025  06:06 PM    <DIR>          info
 08/18/2025  06:06 PM    <DIR>          logs
-08/18/2025  06:06 PM    <DIR>          objects
-08/18/2025  06:06 PM               182 packed-refs
+08/19/2025  10:29 AM    <DIR>          objects
+08/19/2025  09:37 AM                46 packed-refs
 08/18/2025  06:06 PM    <DIR>          refs
-               5 File(s)          8,624 bytes
+               6 File(s)          8,581 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\hooks
 
@@ -61,89 +63,356 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\logs
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM               192 HEAD
+08/19/2025  10:29 AM               760 HEAD
 08/18/2025  06:06 PM    <DIR>          refs
-               1 File(s)            192 bytes
+               1 File(s)            760 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\logs\refs
 
 08/18/2025  06:06 PM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
 08/18/2025  06:06 PM    <DIR>          heads
-08/18/2025  06:06 PM    <DIR>          remotes
+08/19/2025  10:01 AM    <DIR>          remotes
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\logs\refs\heads
 
 08/18/2025  06:06 PM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM               192 main
-               1 File(s)            192 bytes
+08/19/2025  10:29 AM               760 main
+               1 File(s)            760 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\logs\refs\remotes
 
-08/18/2025  06:06 PM    <DIR>          .
+08/19/2025  10:01 AM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM    <DIR>          origin
+08/19/2025  10:01 AM    <DIR>          origin
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\logs\refs\remotes\origin
 
-08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM               192 HEAD
-               1 File(s)            192 bytes
+08/19/2025  10:01 AM    <DIR>          .
+08/19/2025  10:01 AM    <DIR>          ..
+08/19/2025  10:30 AM               456 main
+               1 File(s)            456 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects
 
-08/18/2025  06:06 PM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  09:36 AM    <DIR>          06
+08/19/2025  09:36 AM    <DIR>          0c
+08/19/2025  09:36 AM    <DIR>          21
+08/19/2025  09:36 AM    <DIR>          2a
+08/19/2025  09:36 AM    <DIR>          32
+08/19/2025  10:29 AM    <DIR>          36
+08/19/2025  09:36 AM    <DIR>          3a
+08/19/2025  09:36 AM    <DIR>          3f
+08/19/2025  09:36 AM    <DIR>          40
+08/19/2025  09:36 AM    <DIR>          45
+08/19/2025  09:36 AM    <DIR>          56
+08/19/2025  09:36 AM    <DIR>          57
+08/19/2025  10:29 AM    <DIR>          5e
+08/19/2025  09:36 AM    <DIR>          65
+08/19/2025  09:36 AM    <DIR>          6a
+08/19/2025  09:36 AM    <DIR>          70
+08/19/2025  10:29 AM    <DIR>          74
+08/19/2025  10:29 AM    <DIR>          7b
+08/19/2025  10:29 AM    <DIR>          89
+08/19/2025  10:12 AM    <DIR>          8a
+08/19/2025  09:36 AM    <DIR>          91
+08/19/2025  09:36 AM    <DIR>          95
+08/19/2025  09:36 AM    <DIR>          99
+08/19/2025  10:29 AM    <DIR>          a0
+08/19/2025  09:36 AM    <DIR>          a1
+08/19/2025  09:36 AM    <DIR>          a6
+08/19/2025  10:29 AM    <DIR>          c6
+08/19/2025  09:36 AM    <DIR>          d5
+08/19/2025  09:36 AM    <DIR>          db
+08/19/2025  09:36 AM    <DIR>          f8
+08/19/2025  10:12 AM    <DIR>          fa
+08/19/2025  10:29 AM    <DIR>          fd
+08/19/2025  09:36 AM    <DIR>          ff
 08/18/2025  06:06 PM    <DIR>          info
 08/18/2025  06:06 PM    <DIR>          pack
                0 File(s)              0 bytes
 
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\06
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:57 AM             4,425 6e0032df6e4a0fc5c8208327c558f4d6a02235
+               1 File(s)          4,425 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\0c
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               287 1afeb58261541b1d0e5e56a31bb240f2f78f1f
+               1 File(s)            287 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\21
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               466 d9c6891b9a4e1043bb70a69d3c103adacde765
+               1 File(s)            466 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\2a
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:57 AM               364 9d91760a8394cd0ed7e7f26666e702f40a9913
+               1 File(s)            364 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\32
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               556 6917de6b41f6c46faec3f6518a904f66f4856b
+               1 File(s)            556 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\36
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM               196 2066a3779d93d54c369512e8fc15e027473b35
+               1 File(s)            196 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\3a
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM         4,746,901 fad5cfffddbc8d1a04c3e9de9d7b757eff9c73
+08/19/2025  09:36 AM           785,936 ffdda71a785ad7eb158818be07432152046a70
+               2 File(s)      5,532,837 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\3f
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM             1,094 e534b200eaee1e9e4e0d39f6f6bd1dabb309da
+               1 File(s)          1,094 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\40
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           611,834 ba83f0659ef42bcf58a62ed7c9e4feb3a49b53
+               1 File(s)        611,834 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\45
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           316,892 824197e40174b839d0a1d449dd50c3552cec01
+               1 File(s)        316,892 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\56
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               566 dd19545f4e20c73d574991f135c33b575b6673
+               1 File(s)            566 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\57
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               758 af4cd9337a9cf7a36cc0862f64cc8b35bfa253
+               1 File(s)            758 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\5e
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM               363 1d6722d8b402e2010005feb39e5e828502b89f
+08/19/2025  10:12 AM               215 d42930cf005f56cdb3024399760a1afa1f1e32
+               2 File(s)            578 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\65
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               347 aa90e5a9cebd687b8aba8b81b12629fb4faa42
+               1 File(s)            347 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\6a
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           919,614 7a7aef48ac3d986bc0de111146f9a70244b60c
+               1 File(s)        919,614 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\70
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM                86 cf2ab9d52157b545b1c886e3a9724bb8b5e7ed
+               1 File(s)             86 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\74
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM                86 3f0317987fcf163ff02ee5545e8eaded62e3b7
+               1 File(s)             86 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\7b
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM         1,664,054 dcf9ecd2be65347cbadd36f7a4cce412c8bb97
+               1 File(s)      1,664,054 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\89
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM               288 1966de8bf47a92d6692fed5dc29f0168eeae5d
+               1 File(s)            288 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\8a
+
+08/19/2025  10:12 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:12 AM               171 22ca9e7f785cf6b26eb6e07bb04834ca1ab597
+               1 File(s)            171 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\91
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           418,308 271faa494cf278fb4dc70c84db273dc164cb83
+               1 File(s)        418,308 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\95
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               190 9fa6dfbe03a116ecf24ce684887b5a10dfdf2c
+               1 File(s)            190 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\99
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:57 AM               215 8a68de583d48b0668caa2b6febf39ec7d6da46
+               1 File(s)            215 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\a0
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:12 AM               363 98af53cc88c05614c0b2f0494e1df771c0b54a
+08/19/2025  10:29 AM               216 fc90e59b70583e96cf5c7832ac91df5931b69e
+               2 File(s)            579 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\a1
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           648,856 662b6c3852919701da028f0dfc92d4a6fe130e
+               1 File(s)        648,856 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\a6
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM             2,542 a10d536f2112efcbbd071e2ce6ec31d4c9d238
+               1 File(s)          2,542 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\c6
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM             2,538 abb95a5bdd2eb7d075dac9cf935a51cfa89fb2
+               1 File(s)          2,538 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\d5
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           142,568 aa263d5dd907e59b306fd1bf296ebe24af39ff
+               1 File(s)        142,568 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\db
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM               424 f9d834616ab22183bfb41381de11962f787e26
+               1 File(s)            424 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\f8
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM         2,863,141 84e3253433a5d23c297d9be2a8f48d7989cced
+               1 File(s)      2,863,141 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\fa
+
+08/19/2025  10:12 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:12 AM               437 3908bc548eb09edfc20b782efcc7433f7ffe76
+               1 File(s)            437 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\fd
+
+08/19/2025  10:29 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  10:29 AM               344 acea2dd4b96f4eccfe95b4e31b813bd2fff2a4
+               1 File(s)            344 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\ff
+
+08/19/2025  09:36 AM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          ..
+08/19/2025  09:36 AM           268,664 30bfc0fe675d92cd15ef4f0c2bd9683e764f71
+               1 File(s)        268,664 bytes
+
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\info
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
+08/19/2025  10:29 AM    <DIR>          ..
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\objects\pack
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
+08/19/2025  10:29 AM    <DIR>          ..
 08/18/2025  06:06 PM             8,632 pack-a42536e34e6e40bc484feee92df56c4530835d7e.idx
-08/18/2025  06:06 PM         8,291,452 pack-a42536e34e6e40bc484feee92df56c4530835d7e.pack
+08/19/2025  09:57 AM         8,291,452 pack-a42536e34e6e40bc484feee92df56c4530835d7e.pack
 08/18/2025  06:06 PM             1,132 pack-a42536e34e6e40bc484feee92df56c4530835d7e.rev
                3 File(s)      8,301,216 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\refs
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          heads
-08/18/2025  06:06 PM    <DIR>          remotes
+08/19/2025  10:29 AM    <DIR>          heads
+08/19/2025  10:01 AM    <DIR>          remotes
 08/18/2025  06:06 PM    <DIR>          tags
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\refs\heads
 
-08/18/2025  06:06 PM    <DIR>          .
+08/19/2025  10:29 AM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM                41 main
+08/19/2025  10:29 AM                41 main
                1 File(s)             41 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\refs\remotes
 
-08/18/2025  06:06 PM    <DIR>          .
+08/19/2025  10:01 AM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM    <DIR>          origin
+08/19/2025  10:30 AM    <DIR>          origin
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\refs\remotes\origin
 
-08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM                30 HEAD
-               1 File(s)             30 bytes
+08/19/2025  10:30 AM    <DIR>          .
+08/19/2025  10:01 AM    <DIR>          ..
+08/19/2025  10:30 AM                41 main
+               1 File(s)             41 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\.git\refs\tags
 
@@ -151,18 +420,91 @@
 08/18/2025  06:06 PM    <DIR>          ..
                0 File(s)              0 bytes
 
+ Directory of C:\dokumentasi projek gabriel\portofolio\dist
+
+08/19/2025  09:46 AM    <DIR>          .
+08/19/2025  10:49 AM    <DIR>          ..
+08/19/2025  09:46 AM    <DIR>          assets
+08/19/2025  09:46 AM               865 index.html
+08/18/2025  06:06 PM             1,497 vite.svg
+               2 File(s)          2,362 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\dist\assets
+
+08/19/2025  09:46 AM    <DIR>          .
+08/19/2025  09:46 AM    <DIR>          ..
+08/19/2025  06:02 AM           209,512 card.glb
+08/18/2025  06:06 PM            92,937 dsadsdasdasdasdasdasdsacvoang.pdf
+08/18/2025  06:24 PM         2,937,134 gabe.png
+08/18/2025  08:49 PM         4,824,647 gabe2.png
+08/18/2025  06:06 PM           188,782 hero-img.webp
+08/19/2025  09:46 AM         4,121,131 index-Bd8Gf-Cb.js
+08/19/2025  09:46 AM           271,421 index-BuTRoV0f.css
+08/18/2025  06:06 PM            12,333 lanyard.png
+08/19/2025  09:46 AM    <DIR>          proyek
+08/19/2025  09:46 AM           242,720 remixicon-BBpe-Xu7.woff
+08/19/2025  09:46 AM           570,148 remixicon-BVJ9S1ev.eot
+08/19/2025  09:46 AM           176,812 remixicon-BVvFtaex.woff2
+08/19/2025  09:46 AM         2,734,258 remixicon-C2wQ2gtc.svg
+08/19/2025  09:46 AM           569,976 remixicon-CfJD46dY.ttf
+08/19/2025  09:46 AM    <DIR>          tools
+              13 File(s)     16,951,811 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\dist\assets\proyek
+
+08/19/2025  09:46 AM    <DIR>          .
+08/19/2025  09:46 AM    <DIR>          ..
+08/12/2025  04:59 PM           796,189 proyek1.png
+08/18/2025  06:06 PM           290,550 proyek1.webp
+08/04/2025  06:21 PM           428,845 proyek2.png
+08/18/2025  06:06 PM           302,906 proyek2.webp
+08/12/2025  09:42 AM           925,190 proyek3.png
+08/18/2025  06:06 PM           424,458 proyek3.webp
+08/18/2025  06:49 PM           613,267 proyek4.JPG
+08/18/2025  06:06 PM           254,122 proyek4.webp
+08/12/2025  04:49 PM           662,284 proyek5.png
+08/18/2025  06:06 PM           295,592 proyek5.webp
+07/04/2025  10:07 PM           327,426 proyek6.png
+08/18/2025  06:06 PM           337,264 proyek6.webp
+              12 File(s)      5,658,093 bytes
+
+ Directory of C:\dokumentasi projek gabriel\portofolio\dist\assets\tools
+
+08/19/2025  09:46 AM    <DIR>          .
+08/19/2025  09:46 AM    <DIR>          ..
+08/18/2025  06:06 PM            12,988 ai.png
+08/18/2025  06:06 PM             7,111 bootstrap.png
+08/18/2025  06:06 PM           342,330 canva.png
+08/18/2025  06:06 PM            11,598 css.png
+08/18/2025  06:06 PM           165,916 figma.png
+08/18/2025  06:06 PM            11,400 firebase.png
+08/18/2025  06:06 PM             6,700 github.png
+08/18/2025  06:06 PM            12,914 html.png
+08/18/2025  06:06 PM             3,556 js.png
+08/18/2025  06:06 PM            81,298 kotlin.png
+08/18/2025  06:06 PM            22,577 mysql.png
+08/18/2025  06:06 PM             8,425 nextjs.png
+08/18/2025  06:06 PM             5,970 nodejs.png
+08/18/2025  06:06 PM            15,500 php.png
+08/18/2025  06:06 PM             9,078 reactjs.png
+08/18/2025  06:06 PM             3,415 tailwind.png
+08/18/2025  06:06 PM            11,536 ts.png
+08/18/2025  06:06 PM            92,038 vite.png
+08/18/2025  06:06 PM             7,177 vscode.png
+              19 File(s)        831,527 bytes
+
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules
 
-08/18/2025  06:08 PM    <DIR>          .
-08/18/2025  06:11 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          .
+08/19/2025  10:49 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          .bin
-08/18/2025  06:07 PM           178,394 .package-lock.json
+08/19/2025  09:56 AM           178,394 .package-lock.json
 08/18/2025  06:08 PM    <DIR>          .vite
-08/18/2025  06:07 PM    <DIR>          .vite-temp
+08/19/2025  09:56 AM    <DIR>          .vite-temp
 08/18/2025  06:07 PM    <DIR>          @ampproject
 08/18/2025  06:07 PM    <DIR>          @babel
 08/18/2025  06:07 PM    <DIR>          @dimforge
-08/18/2025  06:07 PM    <DIR>          @esbuild
+08/19/2025  09:56 AM    <DIR>          @esbuild
 08/18/2025  06:07 PM    <DIR>          @eslint
 08/18/2025  06:07 PM    <DIR>          @eslint-community
 08/18/2025  06:07 PM    <DIR>          @firebase
@@ -177,8 +519,8 @@
 08/18/2025  06:07 PM    <DIR>          @protobufjs
 08/18/2025  06:07 PM    <DIR>          @react-three
 08/18/2025  06:07 PM    <DIR>          @rolldown
-08/18/2025  06:07 PM    <DIR>          @rollup
-08/18/2025  06:07 PM    <DIR>          @tailwindcss
+08/19/2025  09:56 AM    <DIR>          @rollup
+08/19/2025  09:56 AM    <DIR>          @tailwindcss
 08/18/2025  06:07 PM    <DIR>          @tweenjs
 08/18/2025  06:07 PM    <DIR>          @types
 08/18/2025  06:07 PM    <DIR>          @use-gesture
@@ -412,7 +754,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\.bin
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               379 acorn
 08/18/2025  06:07 PM               320 acorn.cmd
 08/18/2025  06:07 PM               785 acorn.ps1
@@ -481,7 +823,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\.vite
 
 08/18/2025  06:08 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:08 PM    <DIR>          deps
                0 File(s)              0 bytes
 
@@ -571,14 +913,14 @@
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\.vite-temp
 
-08/18/2025  06:08 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          .
+08/19/2025  09:56 AM    <DIR>          ..
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@ampproject
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          remapping
                0 File(s)              0 bytes
 
@@ -617,7 +959,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@babel
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          code-frame
 08/18/2025  06:07 PM    <DIR>          compat-data
 08/18/2025  06:07 PM    <DIR>          core
@@ -2313,7 +2655,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@dimforge
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          rapier3d-compat
                0 File(s)              0 bytes
 
@@ -2403,15 +2745,15 @@
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@esbuild
 
-08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          .
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          win32-x64
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@esbuild\win32-x64
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:07 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM        10,553,856 esbuild.exe
 08/18/2025  06:07 PM               374 package.json
 08/18/2025  06:07 PM               143 README.md
@@ -2420,7 +2762,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@eslint
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          config-array
 08/18/2025  06:07 PM    <DIR>          config-helpers
 08/18/2025  06:07 PM    <DIR>          core
@@ -2764,7 +3106,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@eslint-community
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          eslint-utils
 08/18/2025  06:07 PM    <DIR>          regexpp
                0 File(s)              0 bytes
@@ -2838,7 +3180,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@firebase
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          ai
 08/18/2025  06:07 PM    <DIR>          analytics
 08/18/2025  06:07 PM    <DIR>          analytics-compat
@@ -12565,7 +12907,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@grpc
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          grpc-js
 08/18/2025  06:07 PM    <DIR>          proto-loader
                0 File(s)              0 bytes
@@ -13161,7 +13503,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@humanfs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          core
 08/18/2025  06:07 PM    <DIR>          node
                0 File(s)              0 bytes
@@ -13266,7 +13608,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@humanwhocodes
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          module-importer
 08/18/2025  06:07 PM    <DIR>          retry
                0 File(s)              0 bytes
@@ -13326,7 +13668,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@isaacs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          fs-minipass
                0 File(s)              0 bytes
 
@@ -13373,7 +13715,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@jridgewell
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          gen-mapping
 08/18/2025  06:07 PM    <DIR>          resolve-uri
 08/18/2025  06:07 PM    <DIR>          sourcemap-codec
@@ -13609,7 +13951,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@mediapipe
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          tasks-vision
                0 File(s)              0 bytes
 
@@ -13640,7 +13982,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@monogrid
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          gainmap-js
                0 File(s)              0 bytes
 
@@ -13800,7 +14142,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@nodelib
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          fs.scandir
 08/18/2025  06:07 PM    <DIR>          fs.stat
 08/18/2025  06:07 PM    <DIR>          fs.walk
@@ -13981,7 +14323,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@protobufjs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          aspromise
 08/18/2025  06:07 PM    <DIR>          base64
 08/18/2025  06:07 PM    <DIR>          codegen
@@ -14218,7 +14560,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@react-three
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          drei
 08/18/2025  06:07 PM    <DIR>          fiber
 08/18/2025  06:07 PM    <DIR>          rapier
@@ -14961,7 +15303,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@rolldown
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          pluginutils
                0 File(s)              0 bytes
 
@@ -14987,15 +15329,15 @@
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@rollup
 
-08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          .
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          rollup-win32-x64-msvc
                0 File(s)              0 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@rollup\rollup-win32-x64-msvc
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:07 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               391 package.json
 08/18/2025  06:07 PM                94 README.md
 08/18/2025  06:07 PM         3,495,936 rollup.win32-x64-msvc.node
@@ -15003,8 +15345,8 @@
 
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@tailwindcss
 
-08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          .
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          node
 08/18/2025  06:07 PM    <DIR>          oxide
 08/18/2025  06:07 PM    <DIR>          oxide-win32-x64-msvc
@@ -15014,7 +15356,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@tailwindcss\node
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:07 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,071 LICENSE
 08/18/2025  06:07 PM             1,249 package.json
@@ -15038,7 +15380,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@tailwindcss\oxide
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:07 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,128 index.d.ts
 08/18/2025  06:07 PM             9,613 index.js
 08/18/2025  06:07 PM             1,071 LICENSE
@@ -15056,7 +15398,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@tailwindcss\oxide-win32-x64-msvc
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:07 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,071 LICENSE
 08/18/2025  06:07 PM               529 package.json
 08/18/2025  06:07 PM               110 README.md
@@ -15066,7 +15408,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@tailwindcss\vite
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:07 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,071 LICENSE
 08/18/2025  06:07 PM               989 package.json
@@ -15084,7 +15426,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@tweenjs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          tween.js
                0 File(s)              0 bytes
 
@@ -15112,7 +15454,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@types
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          babel__core
 08/18/2025  06:07 PM    <DIR>          babel__generator
 08/18/2025  06:07 PM    <DIR>          babel__template
@@ -17138,7 +17480,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@use-gesture
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          core
 08/18/2025  06:07 PM    <DIR>          react
                0 File(s)              0 bytes
@@ -17436,7 +17778,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@vitejs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          plugin-react
                0 File(s)              0 bytes
 
@@ -17462,7 +17804,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\@webgpu
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          types
                0 File(s)              0 bytes
 
@@ -17486,7 +17828,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\acorn
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM            23,249 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
@@ -17516,7 +17858,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\acorn-jsx
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               262 index.d.ts
 08/18/2025  06:07 PM            15,827 index.js
 08/18/2025  06:07 PM             1,068 LICENSE
@@ -17528,7 +17870,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ajv
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               439 .tonic_example.js
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
@@ -17675,7 +18017,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\animate.css
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            70,607 animate.compat.css
 08/18/2025  06:07 PM            95,374 animate.css
 08/18/2025  06:07 PM            71,750 animate.min.css
@@ -17907,7 +18249,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ansi-regex
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               744 index.d.ts
 08/18/2025  06:07 PM               350 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -17918,7 +18260,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ansi-styles
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             6,349 index.d.ts
 08/18/2025  06:07 PM             4,139 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -17929,7 +18271,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\aos
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,083 LICENSE
 08/18/2025  06:07 PM             1,770 package.json
@@ -17998,7 +18340,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\argparse
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM           129,714 argparse.js
 08/18/2025  06:07 PM             5,966 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          lib
@@ -18018,7 +18360,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\array-union
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               609 index.d.ts
 08/18/2025  06:07 PM               104 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -18029,7 +18371,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\async
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,559 all.js
 08/18/2025  06:07 PM             1,751 allLimit.js
 08/18/2025  06:07 PM             1,645 allSeries.js
@@ -18186,7 +18528,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\balanced-match
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          .github
 08/18/2025  06:07 PM             1,219 index.js
 08/18/2025  06:07 PM             1,096 LICENSE.md
@@ -18204,7 +18546,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\base64-js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             2,192 base64js.min.js
 08/18/2025  06:07 PM               161 index.d.ts
 08/18/2025  06:07 PM             3,932 index.js
@@ -18216,7 +18558,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\bidi-js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,071 LICENSE.txt
 08/18/2025  06:07 PM             1,068 package.json
@@ -18267,7 +18609,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\brace-expansion
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,797 index.js
 08/18/2025  06:07 PM             1,096 LICENSE
 08/18/2025  06:07 PM             1,156 package.json
@@ -18277,7 +18619,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\braces
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,380 index.js
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,091 LICENSE
@@ -18300,7 +18642,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\browserslist
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,117 browser.js
 08/18/2025  06:07 PM             4,347 cli.js
 08/18/2025  06:07 PM               155 error.d.ts
@@ -18317,7 +18659,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\buffer
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             2,788 AUTHORS.md
 08/18/2025  06:07 PM             9,191 index.d.ts
 08/18/2025  06:07 PM            58,353 index.js
@@ -18329,7 +18671,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\callsites
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             2,351 index.d.ts
 08/18/2025  06:07 PM               363 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -18340,7 +18682,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\camera-controls
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,065 LICENSE
 08/18/2025  06:07 PM             2,036 package.json
@@ -18374,7 +18716,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\caniuse-lite
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          data
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM            18,651 LICENSE
@@ -19259,7 +19601,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\chalk
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             8,899 index.d.ts
 08/18/2025  06:07 PM             1,109 license
 08/18/2025  06:07 PM             1,197 package.json
@@ -19279,7 +19621,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\chownr
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,764 LICENSE.md
 08/18/2025  06:07 PM             1,621 package.json
@@ -19319,7 +19661,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\classlist-polyfill
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                56 .travis.yml
 08/18/2025  06:07 PM               499 bower.json
 08/18/2025  06:07 PM               735 CHANGELOG.md
@@ -19358,7 +19700,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\cliui
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM             4,572 CHANGELOG.md
 08/18/2025  06:07 PM               309 index.mjs
@@ -19387,7 +19729,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\color-convert
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,417 CHANGELOG.md
 08/18/2025  06:07 PM            17,040 conversions.js
 08/18/2025  06:07 PM             1,708 index.js
@@ -19400,7 +19742,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\color-name
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,617 index.js
 08/18/2025  06:07 PM             1,085 LICENSE
 08/18/2025  06:07 PM               607 package.json
@@ -19410,7 +19752,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\commander
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               310 esm.mjs
 08/18/2025  06:07 PM               812 index.js
 08/18/2025  06:07 PM    <DIR>          lib
@@ -19444,7 +19786,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\commondir
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          example
 08/18/2025  06:07 PM               802 index.js
 08/18/2025  06:07 PM             1,109 LICENSE
@@ -19470,7 +19812,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\concat-map
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                43 .travis.yml
 08/18/2025  06:07 PM    <DIR>          example
 08/18/2025  06:07 PM               345 index.js
@@ -19497,7 +19839,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\convert-source-map
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             6,551 index.js
 08/18/2025  06:07 PM             1,078 LICENSE
 08/18/2025  06:07 PM               804 package.json
@@ -19507,7 +19849,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\cross-env
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               187 CHANGELOG.md
 08/18/2025  06:07 PM             1,079 LICENSE
 08/18/2025  06:07 PM             1,494 package.json
@@ -19537,7 +19879,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\cross-spawn
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,192 index.js
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,105 LICENSE
@@ -19566,7 +19908,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\csstype
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM           903,116 index.d.ts
 08/18/2025  06:07 PM           329,241 index.js.flow
 08/18/2025  06:07 PM             1,062 LICENSE
@@ -19577,7 +19919,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\debug
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,139 LICENSE
 08/18/2025  06:07 PM             1,479 package.json
 08/18/2025  06:07 PM            22,115 README.md
@@ -19597,7 +19939,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\deep-is
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                52 .travis.yml
 08/18/2025  06:07 PM    <DIR>          example
 08/18/2025  06:07 PM             3,104 index.js
@@ -19626,7 +19968,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\detect-gpu
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,077 LICENSE
 08/18/2025  06:07 PM             3,243 package.json
@@ -19712,7 +20054,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\detect-libc
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               436 index.d.ts
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM            11,357 LICENSE
@@ -19732,7 +20074,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\dir-glob
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             2,304 index.js
 08/18/2025  06:07 PM             1,116 license
 08/18/2025  06:07 PM               640 package.json
@@ -19742,7 +20084,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\draco3d
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            96,018 bunny.drc
 08/18/2025  06:07 PM               246 draco3d.js
 08/18/2025  06:07 PM           285,948 draco_decoder.wasm
@@ -19760,7 +20102,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\electron-to-chromium
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,207 chromium-versions.js
 08/18/2025  06:07 PM               954 chromium-versions.json
 08/18/2025  06:07 PM            33,700 full-chromium-versions.js
@@ -19778,7 +20120,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\email-addresses
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               287 .travis.yml
 08/18/2025  06:07 PM               544 bower.json
 08/18/2025  06:07 PM             2,544 Changes.md
@@ -19810,7 +20152,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\emoji-regex
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          es2015
 08/18/2025  06:07 PM               427 index.d.ts
 08/18/2025  06:07 PM            10,286 index.js
@@ -19831,7 +20173,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\enhanced-resolve
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,071 LICENSE
 08/18/2025  06:07 PM             3,000 package.json
@@ -19900,7 +20242,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\esbuild
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM            11,160 install.js
 08/18/2025  06:07 PM    <DIR>          lib
@@ -19927,7 +20269,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\escalade
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM               236 index.d.mts
 08/18/2025  06:07 PM               301 index.d.ts
@@ -19958,7 +20300,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\escape-string-regexp
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               467 index.d.ts
 08/18/2025  06:07 PM               461 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -19969,7 +20311,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\eslint
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM    <DIR>          conf
 08/18/2025  06:07 PM    <DIR>          lib
@@ -20545,7 +20887,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\eslint-plugin-react-hooks
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM                49 index.d.ts
 08/18/2025  06:07 PM               367 index.js
@@ -20566,7 +20908,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\eslint-plugin-react-refresh
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               254 index.d.ts
 08/18/2025  06:07 PM            11,464 index.js
 08/18/2025  06:07 PM             1,098 LICENSE
@@ -20577,7 +20919,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\eslint-scope
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,390 LICENSE
@@ -20611,7 +20953,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\eslint-visitor-keys
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM            11,337 LICENSE
@@ -20640,7 +20982,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\espree
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             6,399 espree.js
 08/18/2025  06:07 PM    <DIR>          lib
@@ -20670,7 +21012,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\esquery
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,488 license.txt
 08/18/2025  06:07 PM             2,030 package.json
@@ -20696,7 +21038,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\esrecurse
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                30 .babelrc
 08/18/2025  06:07 PM             4,230 esrecurse.js
 08/18/2025  06:07 PM             3,000 gulpfile.babel.js
@@ -20707,7 +21049,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\estraverse
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               242 .jshintrc
 08/18/2025  06:07 PM            26,957 estraverse.js
 08/18/2025  06:07 PM             2,790 gulpfile.js
@@ -20719,7 +21061,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\esutils
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,231 LICENSE.BSD
 08/18/2025  06:07 PM             1,042 package.json
@@ -20739,7 +21081,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fast-deep-equal
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          es6
 08/18/2025  06:07 PM               103 index.d.ts
 08/18/2025  06:07 PM             1,177 index.js
@@ -20763,7 +21105,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fast-glob
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,079 LICENSE
 08/18/2025  06:07 PM    <DIR>          node_modules
 08/18/2025  06:07 PM    <DIR>          out
@@ -20906,7 +21248,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fast-json-stable-stringify
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               562 .eslintrc.yml
 08/18/2025  06:07 PM    <DIR>          .github
 08/18/2025  06:07 PM               111 .travis.yml
@@ -20958,7 +21300,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fast-levenshtein
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,932 levenshtein.js
 08/18/2025  06:07 PM             1,100 LICENSE.md
 08/18/2025  06:07 PM               998 package.json
@@ -20968,7 +21310,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fastq
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          .github
 08/18/2025  06:07 PM             1,195 bench.js
 08/18/2025  06:07 PM               238 example.js
@@ -21010,7 +21352,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\faye-websocket
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,499 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM               558 LICENSE.md
@@ -21054,7 +21396,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fdir
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,053 LICENSE
 08/18/2025  06:07 PM             2,416 package.json
@@ -21131,7 +21473,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fflate
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,099 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          esm
 08/18/2025  06:07 PM    <DIR>          lib
@@ -21175,7 +21517,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\file-entry-cache
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             7,892 cache.js
 08/18/2025  06:07 PM             1,086 LICENSE
 08/18/2025  06:07 PM             1,549 package.json
@@ -21185,7 +21527,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\filename-reserved-regex
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               258 index.js
 08/18/2025  06:07 PM             1,119 license
 08/18/2025  06:07 PM               647 package.json
@@ -21195,7 +21537,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\filenamify
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               244 filenamify-path.d.ts
 08/18/2025  06:07 PM               299 filenamify-path.js
 08/18/2025  06:07 PM               756 filenamify.d.ts
@@ -21210,7 +21552,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fill-range
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             6,406 index.js
 08/18/2025  06:07 PM             1,091 LICENSE
 08/18/2025  06:07 PM             1,760 package.json
@@ -21220,7 +21562,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\find-cache-dir
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,384 index.js
 08/18/2025  06:07 PM             1,117 license
 08/18/2025  06:07 PM               727 package.json
@@ -21230,7 +21572,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\find-up
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,762 index.d.ts
 08/18/2025  06:07 PM             1,940 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -21241,7 +21583,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\firebase
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          ai
 08/18/2025  06:07 PM    <DIR>          analytics
 08/18/2025  06:07 PM    <DIR>          app
@@ -37960,7 +38302,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\flat-cache
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            16,026 changelog.md
 08/18/2025  06:07 PM             1,088 LICENSE
 08/18/2025  06:07 PM             1,593 package.json
@@ -37980,7 +38322,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\flatted
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM             1,133 es.js
 08/18/2025  06:07 PM    <DIR>          esm
@@ -38034,7 +38376,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\framer-motion
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          client
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          dom
@@ -38791,7 +39133,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\fs-extra
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,084 LICENSE
 08/18/2025  06:07 PM             1,565 package.json
@@ -38912,7 +39254,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\gensync
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             9,627 index.js
 08/18/2025  06:07 PM               846 index.js.flow
 08/18/2025  06:07 PM             1,075 LICENSE
@@ -38932,7 +39274,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\get-caller-file
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                71 index.d.ts
 08/18/2025  06:07 PM             1,108 index.js
 08/18/2025  06:07 PM               773 index.js.map
@@ -38944,7 +39286,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\gh-pages
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,067 LICENSE
@@ -38972,7 +39314,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\glob-parent
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,614 index.js
 08/18/2025  06:07 PM               857 LICENSE
 08/18/2025  06:07 PM             1,050 package.json
@@ -38982,7 +39324,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\globals
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            81,168 globals.json
 08/18/2025  06:07 PM           109,113 index.d.ts
 08/18/2025  06:07 PM                58 index.js
@@ -38994,7 +39336,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\globby
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             2,608 gitignore.js
 08/18/2025  06:07 PM             6,080 index.d.ts
 08/18/2025  06:07 PM             4,473 index.js
@@ -39007,7 +39349,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\glsl-noise
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          classic
 08/18/2025  06:07 PM             1,129 LICENSE
 08/18/2025  06:07 PM               578 package.json
@@ -39046,7 +39388,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\graceful-fs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               496 clone.js
 08/18/2025  06:07 PM            12,680 graceful-fs.js
 08/18/2025  06:07 PM             2,655 legacy-streams.js
@@ -39059,7 +39401,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\gsap
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,503 all.js
 08/18/2025  06:07 PM            63,989 CSSPlugin.js
 08/18/2025  06:07 PM             3,469 CSSRulePlugin.js
@@ -39285,7 +39627,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\has-flag
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               684 index.d.ts
 08/18/2025  06:07 PM               330 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -39296,7 +39638,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\hls.js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,338 LICENSE
 08/18/2025  06:07 PM             5,685 package.json
@@ -39540,7 +39882,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\http-parser-js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,634 http-parser.d.ts
 08/18/2025  06:07 PM            13,899 http-parser.js
 08/18/2025  06:07 PM             5,180 LICENSE.md
@@ -39551,7 +39893,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\idb
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM             3,023 CHANGELOG.md
 08/18/2025  06:07 PM               776 LICENSE
@@ -39585,7 +39927,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ieee754
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               332 index.d.ts
 08/18/2025  06:07 PM             2,154 index.js
 08/18/2025  06:07 PM             1,465 LICENSE
@@ -39596,7 +39938,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ignore
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,499 index.d.ts
 08/18/2025  06:07 PM            16,412 index.js
 08/18/2025  06:07 PM            20,754 legacy.js
@@ -39608,7 +39950,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\immediate
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,115 LICENSE.txt
@@ -39635,7 +39977,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\import-fresh
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               432 index.d.ts
 08/18/2025  06:07 PM             1,109 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -39646,7 +39988,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\imurmurhash
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,412 imurmurhash.js
 08/18/2025  06:07 PM             1,894 imurmurhash.min.js
 08/18/2025  06:07 PM               818 package.json
@@ -39656,7 +39998,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\is-extglob
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               441 index.js
 08/18/2025  06:07 PM             1,087 LICENSE
 08/18/2025  06:07 PM             1,220 package.json
@@ -39666,7 +40008,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\is-fullwidth-code-point
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               549 index.d.ts
 08/18/2025  06:07 PM             1,756 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -39677,7 +40019,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\is-glob
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,628 index.js
 08/18/2025  06:07 PM             1,088 LICENSE
 08/18/2025  06:07 PM             1,748 package.json
@@ -39687,7 +40029,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\is-number
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               411 index.js
 08/18/2025  06:07 PM             1,091 LICENSE
 08/18/2025  06:07 PM             1,599 package.json
@@ -39697,7 +40039,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\is-promise
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               201 index.js
 08/18/2025  06:07 PM               151 index.mjs
 08/18/2025  06:07 PM             1,058 LICENSE
@@ -39708,7 +40050,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\isexe
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                23 .npmignore
 08/18/2025  06:07 PM             1,192 index.js
 08/18/2025  06:07 PM               765 LICENSE
@@ -39729,7 +40071,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\its-fine
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,093 LICENSE
 08/18/2025  06:07 PM    <DIR>          node_modules
@@ -39776,7 +40118,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\jiti
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,078 LICENSE
@@ -39811,7 +40153,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\js-tokens
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,481 CHANGELOG.md
 08/18/2025  06:07 PM             1,448 index.js
 08/18/2025  06:07 PM             1,103 LICENSE
@@ -39822,7 +40164,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\js-yaml
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM            19,230 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
@@ -39896,7 +40238,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\jsesc
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM             8,908 jsesc.js
 08/18/2025  06:07 PM             1,077 LICENSE-MIT.txt
@@ -39922,7 +40264,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\json-buffer
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                38 .travis.yml
 08/18/2025  06:07 PM             1,504 index.js
 08/18/2025  06:07 PM             1,071 LICENSE
@@ -39941,7 +40283,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\json-schema-traverse
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               630 .eslintrc.yml
 08/18/2025  06:07 PM               108 .travis.yml
 08/18/2025  06:07 PM             2,373 index.js
@@ -39970,7 +40312,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\json-stable-stringify-without-jsonify
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                13 .npmignore
 08/18/2025  06:07 PM                48 .travis.yml
 08/18/2025  06:07 PM    <DIR>          example
@@ -40006,7 +40348,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\json5
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,145 LICENSE.md
@@ -40046,7 +40388,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\jsonfile
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             2,014 index.js
 08/18/2025  06:07 PM             1,110 LICENSE
 08/18/2025  06:07 PM               762 package.json
@@ -40057,7 +40399,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\keyv
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,297 package.json
 08/18/2025  06:07 PM            15,631 README.md
 08/18/2025  06:07 PM    <DIR>          src
@@ -40074,7 +40416,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\levn
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,054 LICENSE
 08/18/2025  06:07 PM               901 package.json
@@ -40093,7 +40435,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lie
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,084 license.md
@@ -40124,7 +40466,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lightningcss
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            15,648 LICENSE
 08/18/2025  06:07 PM    <DIR>          node
 08/18/2025  06:07 PM             3,792 package.json
@@ -40151,7 +40493,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lightningcss-win32-x64-msvc
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            15,648 LICENSE
 08/18/2025  06:07 PM         8,744,448 lightningcss.win32-x64-msvc.node
 08/18/2025  06:07 PM               719 package.json
@@ -40161,7 +40503,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\locate-path
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,580 index.d.ts
 08/18/2025  06:07 PM             1,329 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -40172,7 +40514,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lodash.camelcase
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            18,757 index.js
 08/18/2025  06:07 PM             1,951 LICENSE
 08/18/2025  06:07 PM               752 package.json
@@ -40182,7 +40524,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lodash.debounce
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            10,784 index.js
 08/18/2025  06:07 PM             1,951 LICENSE
 08/18/2025  06:07 PM               749 package.json
@@ -40192,7 +40534,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lodash.merge
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            51,155 index.js
 08/18/2025  06:07 PM             1,952 LICENSE
 08/18/2025  06:07 PM               579 package.json
@@ -40202,7 +40544,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lodash.throttle
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            13,311 index.js
 08/18/2025  06:07 PM             1,951 LICENSE
 08/18/2025  06:07 PM               749 package.json
@@ -40212,7 +40554,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\long
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                56 index.d.ts
 08/18/2025  06:07 PM            44,190 index.js
 08/18/2025  06:07 PM            11,358 LICENSE
@@ -40235,7 +40577,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\lru-cache
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             8,186 index.js
 08/18/2025  06:07 PM               765 LICENSE
 08/18/2025  06:07 PM               776 package.json
@@ -40245,7 +40587,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\maath
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          buffer
 08/18/2025  06:07 PM             1,732 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
@@ -40538,7 +40880,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\magic-string
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,051 LICENSE
 08/18/2025  06:07 PM             1,807 package.json
@@ -40562,7 +40904,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\make-dir
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,534 index.d.ts
 08/18/2025  06:07 PM             3,124 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -40573,7 +40915,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\merge2
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,241 index.js
 08/18/2025  06:07 PM             1,082 LICENSE
 08/18/2025  06:07 PM               830 package.json
@@ -40583,7 +40925,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\meshline
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,091 LICENSE
 08/18/2025  06:07 PM               969 package.json
@@ -40605,7 +40947,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\meshoptimizer
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,279 benchmark.js
 08/18/2025  06:07 PM               331 index.js
 08/18/2025  06:07 PM               175 index.module.d.ts
@@ -40635,7 +40977,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\micromatch
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            13,898 index.js
 08/18/2025  06:07 PM             1,091 LICENSE
 08/18/2025  06:07 PM    <DIR>          node_modules
@@ -40676,7 +41018,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\minimatch
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               765 LICENSE
 08/18/2025  06:07 PM            26,266 minimatch.js
 08/18/2025  06:07 PM               700 package.json
@@ -40686,7 +41028,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\minipass
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM               787 LICENSE
 08/18/2025  06:07 PM             1,933 package.json
@@ -40726,7 +41068,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\minizlib
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,339 LICENSE
 08/18/2025  06:07 PM             1,844 package.json
@@ -40774,7 +41116,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\mkdirp
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,180 LICENSE
 08/18/2025  06:07 PM             2,122 package.json
@@ -40873,7 +41215,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\motion
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,100 LICENSE.md
 08/18/2025  06:07 PM    <DIR>          mini
@@ -40958,7 +41300,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\motion-dom
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,100 LICENSE.md
 08/18/2025  06:07 PM             1,341 package.json
@@ -41460,7 +41802,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\motion-utils
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,100 LICENSE.md
 08/18/2025  06:07 PM               939 package.json
@@ -41544,7 +41886,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ms
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,024 index.js
 08/18/2025  06:07 PM             1,079 license.md
 08/18/2025  06:07 PM               732 package.json
@@ -41554,7 +41896,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\nanoid
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          async
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM             2,834 index.browser.cjs
@@ -41613,7 +41955,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\natural-compare
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,303 index.js
 08/18/2025  06:07 PM               992 package.json
 08/18/2025  06:07 PM             3,352 README.md
@@ -41622,7 +41964,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\node-releases
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          data
 08/18/2025  06:07 PM             1,107 LICENSE
 08/18/2025  06:07 PM               449 package.json
@@ -41654,7 +41996,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\ogl
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,184 package.json
 08/18/2025  06:07 PM             8,335 README.md
 08/18/2025  06:07 PM    <DIR>          src
@@ -41872,7 +42214,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\optionator
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,995 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,054 LICENSE
@@ -41892,7 +42234,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\p-limit
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,418 index.d.ts
 08/18/2025  06:07 PM             1,521 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -41903,7 +42245,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\p-locate
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,467 index.d.ts
 08/18/2025  06:07 PM             1,157 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -41914,7 +42256,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\p-try
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,082 index.d.ts
 08/18/2025  06:07 PM               211 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -41925,7 +42267,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\parent-module
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               641 index.js
 08/18/2025  06:07 PM             1,109 license
 08/18/2025  06:07 PM               712 package.json
@@ -41935,7 +42277,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\path-exists
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               429 index.d.ts
 08/18/2025  06:07 PM               347 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -41946,7 +42288,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\path-key
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,032 index.d.ts
 08/18/2025  06:07 PM               415 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -41957,7 +42299,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\path-type
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,296 index.d.ts
 08/18/2025  06:07 PM             1,176 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -41968,7 +42310,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\picocolors
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               787 LICENSE
 08/18/2025  06:07 PM               552 package.json
 08/18/2025  06:07 PM               598 picocolors.browser.js
@@ -41981,7 +42323,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\picomatch
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               479 index.js
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,091 LICENSE
@@ -42004,7 +42346,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\pkg-dir
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,066 index.d.ts
 08/18/2025  06:07 PM               452 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -42070,7 +42412,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\postcss
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,095 LICENSE
 08/18/2025  06:07 PM             2,496 package.json
@@ -42138,7 +42480,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\potpack
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               808 index.d.ts
 08/18/2025  06:07 PM             3,647 index.js
 08/18/2025  06:07 PM             3,112 index.mjs
@@ -42150,7 +42492,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\prelude-ls
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,123 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,054 LICENSE
@@ -42173,7 +42515,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\promise-worker-transferable
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,987 index.js
 08/18/2025  06:07 PM            11,391 LICENSE
@@ -42195,7 +42537,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\protobufjs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          ext
 08/18/2025  06:07 PM    <DIR>          google
@@ -42369,7 +42711,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\punycode
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,077 LICENSE-MIT.txt
 08/18/2025  06:07 PM             1,227 package.json
 08/18/2025  06:07 PM            12,780 punycode.es6.js
@@ -42380,7 +42722,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\queue-microtask
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                79 index.d.ts
 08/18/2025  06:07 PM               402 index.js
 08/18/2025  06:07 PM             1,081 LICENSE
@@ -42391,7 +42733,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\react
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM               412 compiler-runtime.js
 08/18/2025  06:07 PM               186 index.js
@@ -42431,7 +42773,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\react-dom
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM             1,373 client.js
 08/18/2025  06:07 PM               101 client.react-server.js
@@ -42487,7 +42829,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\react-icons
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          ai
 08/18/2025  06:07 PM    <DIR>          bi
 08/18/2025  06:07 PM    <DIR>          bs
@@ -42860,7 +43202,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\react-reconciler
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM               228 constants.js
 08/18/2025  06:07 PM               208 index.js
@@ -42922,7 +43264,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\react-refresh
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               214 babel.js
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM             1,088 LICENSE
@@ -42944,7 +43286,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\react-use-measure
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,093 LICENSE
 08/18/2025  06:07 PM             1,580 package.json
@@ -42973,7 +43315,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\remixicon
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          fonts
 08/18/2025  06:07 PM    <DIR>          icons
 08/18/2025  06:07 PM            11,357 License
@@ -46200,7 +46542,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\require-directory
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,853 .jshintrc
 08/18/2025  06:07 PM                 8 .npmignore
 08/18/2025  06:07 PM                36 .travis.yml
@@ -46213,7 +46555,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\require-from-string
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               866 index.js
 08/18/2025  06:07 PM             1,128 license
 08/18/2025  06:07 PM               511 package.json
@@ -46223,7 +46565,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\resolve-from
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,125 index.js
 08/18/2025  06:07 PM             1,109 license
 08/18/2025  06:07 PM               569 package.json
@@ -46233,7 +46575,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\reusify
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          .github
 08/18/2025  06:07 PM    <DIR>          benchmarks
 08/18/2025  06:07 PM               196 eslint.config.js
@@ -46274,7 +46616,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\rollup
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM            35,223 LICENSE.md
 08/18/2025  06:07 PM            11,546 package.json
@@ -46342,7 +46684,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\run-parallel
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,034 index.js
 08/18/2025  06:07 PM             1,081 LICENSE
 08/18/2025  06:07 PM             1,291 package.json
@@ -46352,7 +46694,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\safe-buffer
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             8,738 index.d.ts
 08/18/2025  06:07 PM             1,670 index.js
 08/18/2025  06:07 PM             1,081 LICENSE
@@ -46363,7 +46705,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\scheduler
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM               194 index.js
 08/18/2025  06:07 PM               208 index.native.js
@@ -46391,7 +46733,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\semver
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM               765 LICENSE
 08/18/2025  06:07 PM               981 package.json
@@ -46410,7 +46752,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\shebang-command
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               387 index.js
 08/18/2025  06:07 PM             1,116 license
 08/18/2025  06:07 PM               558 package.json
@@ -46420,7 +46762,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\shebang-regex
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               446 index.d.ts
 08/18/2025  06:07 PM                42 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -46431,7 +46773,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\slash
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               621 index.d.ts
 08/18/2025  06:07 PM               289 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -46442,7 +46784,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\source-map-js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,526 LICENSE
 08/18/2025  06:07 PM             2,548 package.json
@@ -46473,7 +46815,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\stats-gl
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM    <DIR>          node_modules
@@ -48315,7 +48657,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\stats.js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM             1,082 LICENSE
 08/18/2025  06:07 PM             1,058 package.json
@@ -48339,7 +48681,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\string-width
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               792 index.d.ts
 08/18/2025  06:07 PM               923 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -48350,7 +48692,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\strip-ansi
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               369 index.d.ts
 08/18/2025  06:07 PM               154 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -48361,7 +48703,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\strip-json-comments
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               807 index.d.ts
 08/18/2025  06:07 PM             2,219 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -48372,7 +48714,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\strip-outer
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               306 index.js
 08/18/2025  06:07 PM             1,119 license
 08/18/2025  06:07 PM    <DIR>          node_modules
@@ -48400,7 +48742,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\supports-color
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                67 browser.js
 08/18/2025  06:07 PM             2,748 index.js
 08/18/2025  06:07 PM             1,109 license
@@ -48411,7 +48753,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\suspend-react
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             3,030 index.cjs.js
 08/18/2025  06:07 PM               801 index.d.ts
 08/18/2025  06:07 PM             2,895 index.js
@@ -48423,7 +48765,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tailwind-scrollbar-hide
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,064 LICENSE
 08/18/2025  06:07 PM             1,157 package.json
@@ -48449,7 +48791,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tailwindcss
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM            27,231 index.css
 08/18/2025  06:07 PM             1,071 LICENSE
@@ -48496,7 +48838,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tapable
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,088 LICENSE
 08/18/2025  06:07 PM             1,054 package.json
@@ -48529,7 +48871,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tar
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM               765 LICENSE
 08/18/2025  06:07 PM    <DIR>          node_modules
@@ -48841,7 +49183,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\three
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM    <DIR>          examples
 08/18/2025  06:07 PM             1,081 LICENSE
@@ -50555,7 +50897,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\three-mesh-bvh
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM             1,072 LICENSE
 08/18/2025  06:07 PM             2,479 package.json
@@ -50739,7 +51081,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\three-stdlib
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          animation
 08/18/2025  06:07 PM    <DIR>          cameras
 08/18/2025  06:07 PM    <DIR>          controls
@@ -52409,7 +52751,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tinyglobby
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,076 LICENSE
 08/18/2025  06:07 PM             1,646 package.json
@@ -52429,7 +52771,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\to-regex-range
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             6,481 index.js
 08/18/2025  06:07 PM             1,091 LICENSE
 08/18/2025  06:07 PM             1,782 package.json
@@ -52439,7 +52781,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\trim-repeated
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               320 index.js
 08/18/2025  06:07 PM             1,119 license
 08/18/2025  06:07 PM    <DIR>          node_modules
@@ -52467,7 +52809,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\troika-three-text
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            23,136 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,652 find-google-font-url.js
@@ -52520,7 +52862,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\troika-three-utils
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM            12,024 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM    <DIR>          docs
@@ -52566,7 +52908,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\troika-worker-utils
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             8,722 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,102 LICENSE
@@ -52607,7 +52949,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tslib
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               822 CopyrightNotice.txt
 08/18/2025  06:07 PM               655 LICENSE.txt
 08/18/2025  06:07 PM    <DIR>          modules
@@ -52634,7 +52976,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\tunnel-rat
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          .changeset
 08/18/2025  06:07 PM               181 .editorconfig
 08/18/2025  06:07 PM             2,535 .eslintrc.json
@@ -53019,7 +53361,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\type-check
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM             1,054 LICENSE
 08/18/2025  06:07 PM               847 package.json
@@ -53038,7 +53380,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\undici-types
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,251 agent.d.ts
 08/18/2025  06:07 PM             1,599 api.d.ts
 08/18/2025  06:07 PM               957 balanced-pool.d.ts
@@ -53088,7 +53430,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\universalify
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               706 index.js
 08/18/2025  06:07 PM             1,100 LICENSE
 08/18/2025  06:07 PM               857 package.json
@@ -53098,7 +53440,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\update-browserslist-db
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               401 check-npm-version.js
 08/18/2025  06:07 PM               912 cli.js
 08/18/2025  06:07 PM               134 index.d.ts
@@ -53112,7 +53454,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\uri-js
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,452 LICENSE
 08/18/2025  06:07 PM             2,172 package.json
@@ -53192,7 +53534,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\use-sync-external-store
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          cjs
 08/18/2025  06:07 PM               222 index.js
 08/18/2025  06:07 PM             1,088 LICENSE
@@ -53237,7 +53579,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\utility-types
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM                96 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,124 LICENSE
@@ -53271,7 +53613,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\vite
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM             5,109 client.d.ts
 08/18/2025  06:07 PM    <DIR>          dist
@@ -53372,7 +53714,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\web-vitals
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               621 attribution.d.ts
 08/18/2025  06:07 PM               755 attribution.js
 08/18/2025  06:07 PM    <DIR>          dist
@@ -53598,7 +53940,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\webgl-constants
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               114 .editorconfig
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,077 LICENSE
@@ -53647,7 +53989,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\webgl-sdf-generator
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          dist
 08/18/2025  06:07 PM             1,071 LICENSE.txt
 08/18/2025  06:07 PM               903 package.json
@@ -53668,7 +54010,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\websocket-driver
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             4,132 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM               558 LICENSE.md
@@ -53720,7 +54062,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\websocket-extensions
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               891 CHANGELOG.md
 08/18/2025  06:07 PM    <DIR>          lib
 08/18/2025  06:07 PM               558 LICENSE.md
@@ -53752,7 +54094,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\which
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          bin
 08/18/2025  06:07 PM             2,667 CHANGELOG.md
 08/18/2025  06:07 PM               765 LICENSE
@@ -53771,7 +54113,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\word-wrap
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,243 index.d.ts
 08/18/2025  06:07 PM             1,455 index.js
 08/18/2025  06:07 PM             1,087 LICENSE
@@ -53782,7 +54124,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\wrap-ansi
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             5,772 index.js
 08/18/2025  06:07 PM             1,117 license
 08/18/2025  06:07 PM             1,014 package.json
@@ -53792,7 +54134,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\y18n
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM             3,911 CHANGELOG.md
 08/18/2025  06:07 PM               183 index.mjs
@@ -53828,7 +54170,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\yallist
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               207 iterator.js
 08/18/2025  06:07 PM               765 LICENSE
 08/18/2025  06:07 PM               652 package.json
@@ -53839,7 +54181,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\yargs
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM               134 browser.d.ts
 08/18/2025  06:07 PM               232 browser.mjs
 08/18/2025  06:07 PM    <DIR>          build
@@ -53963,7 +54305,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\yargs-parser
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,016 browser.js
 08/18/2025  06:07 PM    <DIR>          build
 08/18/2025  06:07 PM            16,462 CHANGELOG.md
@@ -53994,7 +54336,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\yocto-queue
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM             1,140 index.d.ts
 08/18/2025  06:07 PM               949 index.js
 08/18/2025  06:07 PM             1,117 license
@@ -54005,7 +54347,7 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\node_modules\zustand
 
 08/18/2025  06:07 PM    <DIR>          .
-08/18/2025  06:08 PM    <DIR>          ..
+08/19/2025  09:56 AM    <DIR>          ..
 08/18/2025  06:07 PM    <DIR>          esm
 08/18/2025  06:07 PM                64 index.d.ts
 08/18/2025  06:07 PM               546 index.js
@@ -54110,48 +54452,47 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\public
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:11 PM    <DIR>          ..
-08/18/2025  06:06 PM    <DIR>          assets
+08/19/2025  10:49 AM    <DIR>          ..
+08/19/2025  06:11 AM    <DIR>          assets
 08/18/2025  06:06 PM             1,497 vite.svg
                1 File(s)          1,497 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\public\assets
 
-08/18/2025  06:06 PM    <DIR>          .
+08/19/2025  06:11 AM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM           698,228 card.glb
-08/18/2025  06:06 PM            92,937 CV.pdf
-08/18/2025  06:06 PM           669,659 faris.png
-08/18/2025  06:06 PM           666,115 faris1.png
-08/18/2025  06:06 PM           197,686 favicon.ico
+08/19/2025  06:02 AM           209,512 card.glb
+08/18/2025  06:06 PM            92,937 dsadsdasdasdasdasdasdsacvoang.pdf
+08/18/2025  06:24 PM         2,937,134 gabe.png
+08/18/2025  08:49 PM         4,824,647 gabe2.png
 08/18/2025  06:06 PM           188,782 hero-img.webp
 08/18/2025  06:06 PM            12,333 lanyard.png
-08/18/2025  06:06 PM    <DIR>          proyek
+08/19/2025  10:23 AM    <DIR>          proyek
 08/18/2025  06:06 PM    <DIR>          tools
-               7 File(s)      2,525,740 bytes
+               6 File(s)      8,265,345 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\public\assets\proyek
 
-08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
-08/18/2025  06:06 PM           133,983 proyek1.jpg
+08/19/2025  10:23 AM    <DIR>          .
+08/19/2025  06:11 AM    <DIR>          ..
+08/12/2025  04:59 PM           796,189 proyek1.png
 08/18/2025  06:06 PM           290,550 proyek1.webp
-08/18/2025  06:06 PM            98,340 proyek2.jpg
+08/04/2025  06:21 PM           428,845 proyek2.png
 08/18/2025  06:06 PM           302,906 proyek2.webp
-08/18/2025  06:06 PM           139,960 proyek3.jpg
+08/12/2025  09:42 AM           925,190 proyek3.png
 08/18/2025  06:06 PM           424,458 proyek3.webp
-08/18/2025  06:06 PM           100,079 proyek4.jpg
+08/19/2025  10:22 AM         1,664,389 proyek4.png
 08/18/2025  06:06 PM           254,122 proyek4.webp
-08/18/2025  06:06 PM           116,259 proyek5.jpg
+08/12/2025  04:49 PM           662,284 proyek5.png
 08/18/2025  06:06 PM           295,592 proyek5.webp
-08/18/2025  06:06 PM           103,051 proyek6.jpg
+07/04/2025  10:07 PM           327,426 proyek6.png
 08/18/2025  06:06 PM           337,264 proyek6.webp
-              12 File(s)      2,596,564 bytes
+              12 File(s)      6,709,215 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\public\assets\tools
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:06 PM    <DIR>          ..
+08/19/2025  06:11 AM    <DIR>          ..
 08/18/2025  06:06 PM            12,988 ai.png
 08/18/2025  06:06 PM             7,111 bootstrap.png
 08/18/2025  06:06 PM           342,330 canva.png
@@ -54176,14 +54517,14 @@
  Directory of C:\dokumentasi projek gabriel\portofolio\src
 
 08/18/2025  06:06 PM    <DIR>          .
-08/18/2025  06:11 PM    <DIR>          ..
-08/18/2025  06:06 PM            14,228 App.jsx
+08/19/2025  10:49 AM    <DIR>          ..
+08/19/2025  09:50 AM            14,342 App.jsx
 08/18/2025  06:06 PM    <DIR>          components
-08/18/2025  06:06 PM             7,897 data.js
-08/18/2025  06:06 PM               860 firebase.js
+08/19/2025  10:24 AM             8,045 data.js
+08/19/2025  10:12 AM               837 firebase.js
 08/18/2025  06:06 PM                98 index.css
 08/18/2025  06:06 PM               630 main.jsx
-               5 File(s)         23,713 bytes
+               5 File(s)         23,952 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\src\components
 
@@ -54191,13 +54532,13 @@
 08/18/2025  06:06 PM    <DIR>          ..
 08/18/2025  06:06 PM    <DIR>          Aurora
 08/18/2025  06:06 PM    <DIR>          BlurText
-08/18/2025  06:06 PM             4,682 ChatRoom.jsx
+08/18/2025  09:18 PM             4,682 ChatRoom.jsx
 08/18/2025  06:06 PM    <DIR>          ChromaGrid
 08/18/2025  06:06 PM    <DIR>          CountUp
 08/18/2025  06:06 PM    <DIR>          Dock
-08/18/2025  06:06 PM             1,818 Footer.jsx
+08/18/2025  09:16 PM             1,818 Footer.jsx
 08/18/2025  06:06 PM    <DIR>          GlassIcons
-08/18/2025  06:06 PM    <DIR>          Lanyard
+08/19/2025  06:03 AM    <DIR>          Lanyard
 08/18/2025  06:06 PM             1,667 Navbar.jsx
 08/18/2025  06:06 PM             1,857 PreLoader.jsx
 08/18/2025  06:06 PM    <DIR>          ProfileCard
@@ -54256,10 +54597,10 @@
 
  Directory of C:\dokumentasi projek gabriel\portofolio\src\components\Lanyard
 
-08/18/2025  06:06 PM    <DIR>          .
+08/19/2025  06:03 AM    <DIR>          .
 08/18/2025  06:06 PM    <DIR>          ..
 08/18/2025  06:06 PM               216 Lanyard.css
-08/18/2025  06:06 PM             6,759 Lanyard.jsx
+08/19/2025  06:11 AM             6,759 Lanyard.jsx
                2 File(s)          6,975 bytes
 
  Directory of C:\dokumentasi projek gabriel\portofolio\src\components\ProfileCard
@@ -54309,5 +54650,5 @@
                1 File(s)          3,767 bytes
 
      Total Files Listed:
-           23109 File(s)    491,413,830 bytes
-           13366 Dir(s)  143,690,387,456 bytes free
+           23191 File(s)    538,115,894 bytes
+           13477 Dir(s)  139,657,670,656 bytes free
