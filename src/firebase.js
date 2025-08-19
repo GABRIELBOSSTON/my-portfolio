@@ -4,12 +4,12 @@ import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from "firebase/
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBFgA6JpGqNBrWPfR-lKercjvy5Y6ky7zc",
-  authDomain: "webportofolio-8498b.firebaseapp.com",
-  projectId: "webportofolio-8498b",
-  storageBucket: "webportofolio-8498b.firebasestorage.app",
-  messagingSenderId: "543954266098",
-  appId: "1:543954266098:web:029e84a24273fd15d62d6b"
+  apiKey: "AIzaSyDOBgGb6p9uN_ZQUO7CS6f5yu5NfeeQd9o",
+  authDomain: "myportfoliochat-294d0.firebaseapp.com",
+  projectId: "myportfoliochat-294d0",
+  storageBucket: "myportfoliochat-294d0.firebasestorage.appspot.com", // Ubah ke .appspot.com jika error
+  messagingSenderId: "1028633746814",
+  appId: "1:1028633746814:web:b83a01db14ccf55d55672f"
 };
 
 // Init Firebase
